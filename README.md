@@ -1,5 +1,5 @@
 ![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
-![built with Heroku](https://img.shields.io/badge/built%20with-heroku-purple.svg)
+
 
 ## Heroku Deployment Guide
 
