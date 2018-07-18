@@ -1,3 +1,6 @@
+![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
+![built with Heroku](https://img.shields.io/badge/built%20with-heroku-purple.svg)
+
 ## Heroku Deployment Guide
 
 * Heroku is a cloud application platform. This means that we can run our scripts on Heroku's servers! Here are the steps to do get our apps running on Heroku.
